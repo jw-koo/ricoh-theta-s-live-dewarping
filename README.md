@@ -21,4 +21,5 @@
  - The algorithm has a performance of 60 fps but is 15.85 fps due to limitations of live streaming mode.
 
 # LICENSE
+  - MIT
   - Jawon (kjarong@naver.com / opsinist@gmail.com)
