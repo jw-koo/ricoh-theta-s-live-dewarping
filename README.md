@@ -7,7 +7,7 @@
  - openMP(option)
  
 # Test
- - Tested on jetson TX1 board
+ - Tested on jetson TX1 board (Ubuntu 14.04)
  - /dev/video1 (ricoh theta s live streaming mode)
  - 14 ~ 15.85fps (ricoh theta's maximum frame rate is 15.85fps)
  - 1280 x 720
