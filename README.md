@@ -1,5 +1,4 @@
 # ricoh-theta-s-live-dewarping
- - https://github.com/kjarong/ricoh-theta-s-live-dewarping
  - 2 Fisheyes to Equirectangular
 
 # Dependencies
@@ -20,6 +19,5 @@
 # Additional Info
  - The algorithm has a performance of 60 fps but is 15.85 fps due to limitations of live streaming mode.
 
-# LICENSE & Contact
+# LICENSE
   - MIT
-  - Jawon (kjarong@naver.com / opsinist@gmail.com)
